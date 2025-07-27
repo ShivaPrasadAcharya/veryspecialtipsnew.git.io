@@ -12,7 +12,7 @@ var data4Links = `ID,Subject,Remark,Link
  `;
 // Dataset metadata
 var data4LinksInfo = {
-    name: "git-Links",
+    name: "github-Links",
     description: "This dataset contains various links related to webpage repository files links.",
     emoji: "🔗",
     columns: 4,
