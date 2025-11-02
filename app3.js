@@ -23,7 +23,7 @@ DataApp.prototype.getHTML = function() {
     return `
         <div class="container">
             <div class="header">
-                <h2>🗃️Comprehensive Training on Treaty Drafting and Negotiation  </h2>
+                <h2>🗃️Very Special Tips\Phrases for PSC exams </h2>
                 <p>Developed by: Shiva Prasad Acharya, Supreme Court(2082) </p>
             </div>
 
